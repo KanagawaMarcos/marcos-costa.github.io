@@ -1,51 +1,18 @@
-## Developer Portfolio Landing Page Template
+## Courses
 
-### Introduction
+- [ ] [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
+- [ ] [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+- [ ] [The little book about OS development](https://littleosbook.github.io/)
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## Playlists
+- [x] [ML.NET by Microsoft](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUDTvk5XMNues09FnuB_D0u)
+  - Date: 31/01/2021
+- [x] [Functional Programming with F# by David Wilson](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC)
+  - Date: 31/01/2021
+- [ ] [Neural Networks from Scratch in Python by Harrison Kinsley](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 
-<img src="images/demo.gif?raw=true"/>
-
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+## Tech Talks
+- [x] [Effective Programs - 10 Years of Clojure by Rich Hickey](https://www.youtube.com/watch?v=2V1FtfBDsLU)
+  - Date: Unknown
+- [ ] [Railway Oriented Programming- Error Handling in Functional Languages by Scott Wlaschin](https://vimeo.com/97344498)
+- [ ] [Massive Scale Online Collaboration by Luis Von Ahn](https://www.ted.com/talks/luis_von_ahn_massive_scale_online_collaboration?language=pt-BR)
