@@ -1,18 +1,32 @@
-## Courses
 
-- [ ] [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
-- [ ] [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
-- [ ] [The little book about OS development](https://littleosbook.github.io/)
+## This can be your internal website page / project page
 
-## Playlists
-- [x] [ML.NET by Microsoft](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUDTvk5XMNues09FnuB_D0u)
-  - Date: 31/01/2021
-- [x] [Functional Programming with F# by David Wilson](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC)
-  - Date: 31/01/2021
-- [ ] [Neural Networks from Scratch in Python by Harrison Kinsley](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Tech Talks
-- [x] [Effective Programs - 10 Years of Clojure by Rich Hickey](https://www.youtube.com/watch?v=2V1FtfBDsLU)
-  - Date: Unknown
-- [ ] [Railway Oriented Programming- Error Handling in Functional Languages by Scott Wlaschin](https://vimeo.com/97344498)
-- [ ] [Massive Scale Online Collaboration by Luis Von Ahn](https://www.ted.com/talks/luis_von_ahn_massive_scale_online_collaboration?language=pt-BR)
+### 1. Suggest hypotheses about the causes of observed phenomena
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+### 2. Assess assumptions on which statistical inference will be based
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+### 3. Support the selection of appropriate statistical tools and techniques
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 4. Provide a basis for further data collection through surveys or experiments
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
