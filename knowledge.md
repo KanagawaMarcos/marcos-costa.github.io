@@ -16,3 +16,6 @@
   - Date: Unknown
 - [ ] [Railway Oriented Programming- Error Handling in Functional Languages by Scott Wlaschin](https://vimeo.com/97344498)
 - [ ] [Massive Scale Online Collaboration by Luis Von Ahn](https://www.ted.com/talks/luis_von_ahn_massive_scale_online_collaboration?language=pt-BR)
+
+## Papers
+- [ ] [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
