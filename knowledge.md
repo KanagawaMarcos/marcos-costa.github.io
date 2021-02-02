@@ -19,3 +19,7 @@
 
 ## Papers
 - [ ] [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
+
+## Books
+- [x] [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# by ](https://www.amazon.com.br/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
+- [ ] [Python Machine Learning by Sebastian Raschka](https://www.amazon.com.br/Python-Machine-Learning-Sebastian-Raschka/dp/1789955750/ref=asc_df_1789955750/)
