@@ -14,7 +14,7 @@
 ## Tech Talks
 - [x] [Effective Programs - 10 Years of Clojure by Rich Hickey](https://www.youtube.com/watch?v=2V1FtfBDsLU)
   - Date: Unknown
-- [ ] [Railway Oriented Programming- Error Handling in Functional Languages by Scott Wlaschin](https://vimeo.com/97344498)
+- [x] [Railway Oriented Programming- Error Handling in Functional Languages by Scott Wlaschin](https://vimeo.com/97344498)
 - [ ] [Massive Scale Online Collaboration by Luis Von Ahn](https://www.ted.com/talks/luis_von_ahn_massive_scale_online_collaboration?language=pt-BR)
 
 ## Papers
