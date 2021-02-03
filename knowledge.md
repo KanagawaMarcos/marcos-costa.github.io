@@ -20,6 +20,7 @@ Here I'll document content that I've consumed and found out to be useful.
   - Date: Unknown
 - [x] [Railway Oriented Programming- Error Handling in Functional Languages by Scott Wlaschin](https://vimeo.com/97344498)
 - [ ] [Massive Scale Online Collaboration by Luis Von Ahn](https://www.ted.com/talks/luis_von_ahn_massive_scale_online_collaboration)
+- [x] [GOTO 2015 • Agile is Dead • Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
 ## Papers
 - [ ] [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
