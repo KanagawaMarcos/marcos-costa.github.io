@@ -1,3 +1,7 @@
+# Knowledge base
+
+Here I'll document content that I've consumed and found out to be useful.
+
 ## Courses
 
 - [ ] [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
@@ -26,3 +30,6 @@
   - Description: [My review](https://www.goodreads.com/review/show/3786594274?book_show_action=false&from_review_page=1)
 - [ ] [Python Machine Learning by Sebastian Raschka](https://www.amazon.com.br/Python-Machine-Learning-Sebastian-Raschka/dp/1789955750/ref=asc_df_1789955750/)
 - [ ] [The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, John Willis](https://www.amazon.com.br/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+
+
+
