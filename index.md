@@ -2,19 +2,11 @@
 **Software Engineer applied on Functional Programming at the fields of Artificial Intelligence and Scalable Applications levering testing techniques and IoT tooling.**
 
 ## What I know
-- F#
-  - Built with:
-    - Markdown to anki
-  - Books read:
-    - [Domain Drive Design Made Functional](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
-- Javascript
-   - Built with:
-     - [Datapred](https://datarisk.io/produtos/datapred/) - Train, evaluate and predict production-ready machine learning models.
-   - Books read:
-     - [Mostly Adequate guide to functional programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
-- Typescript:
-   - Built with
-     - [Datapred](https://datarisk.io/produtos/datapred/) - Train, evaluate and predict production-ready machine learning models.
+| What I know | Built with                                                                                                                 | Books Read                                                                                                        |
+|-------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| F#          | - Markdown to anki                                                                                                         | - [Domain Modeling Made Functional](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional) |
+| Typescript  | - [Datapred](https://datarisk.io/produtos/datapred/) Train, evaluate and predict production-ready machine learning models. |                                                                                                                   |
+| Javascript  | - [Datapred](https://datarisk.io/produtos/datapred/) Train, evaluate and predict production-ready machine learning models. | - [Mostly Adequate guide to functional programming](https://github.com/MostlyAdequate/mostly-adequate-guide)      |
 
 ## Whats my culture
 - Collaborative
