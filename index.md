@@ -1,4 +1,5 @@
-# Software Engineer applied on Functional Programming at the fields of Artificial Intelligence and Scalable Applications levering testing techniques and IoT tooling.
+## Who I am
+**Software Engineer applied on Functional Programming at the fields of Artificial Intelligence and Scalable Applications levering testing techniques and IoT tooling.**
 
 ## What I know
 - F#
