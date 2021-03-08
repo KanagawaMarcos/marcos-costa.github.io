@@ -32,5 +32,15 @@ Here I'll document content that I've consumed and found out to be useful.
 - [ ] [Python Machine Learning by Sebastian Raschka](https://www.amazon.com.br/Python-Machine-Learning-Sebastian-Raschka/dp/1789955750/ref=asc_df_1789955750/)
 - [ ] [The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, John Willis](https://www.amazon.com.br/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 
+# Study Process
 
+1. Read a book whitouth implementing anything in it. 
+> This serves the porpuses of ensuring that I actually finish any book that I might start. And also suits the fact that and better at implement anything after a have a broader vision of the whole thing a building. The problem to this approach is to build things that might never been built before by humanity.
+2. I create a simple project plan and structure it's tasks.
+3. I prioritize the tasks using math based on my goals with that project.
+4. Build whole CI/CD infrastructure prior to any code.
+5. Build tests to describe the specification of what I'm going to build.
+7. Start my development cycle.
+8. Document the results.
+9. Ensure some acceptances tests like: running with a single command etc
 
